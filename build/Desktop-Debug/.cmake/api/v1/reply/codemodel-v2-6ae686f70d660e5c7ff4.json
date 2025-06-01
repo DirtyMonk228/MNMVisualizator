@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-8f1117d759512857b937.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "FirstTestMNM",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "FirstTestMNM::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FirstTestMNM-Debug-c9ada595898af8669d79.json",
+					"name" : "FirstTestMNM",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "FirstTestMNM_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FirstTestMNM_autogen-Debug-134d37284d34a090ef07.json",
+					"name" : "FirstTestMNM_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "FirstTestMNM_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FirstTestMNM_autogen_timestamp_deps-Debug-67e75ae398e2281df138.json",
+					"name" : "FirstTestMNM_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/ss/cppProjects/FirstTestMNM/build/Desktop-Debug",
+		"source" : "/home/ss/cppProjects/FirstTestMNM"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

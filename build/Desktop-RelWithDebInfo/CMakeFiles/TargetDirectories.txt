@@ -1,0 +1,9 @@
+/home/ss/cppProjects/FirstTestMNM/build/Desktop-RelWithDebInfo/CMakeFiles/FirstTestMNM.dir
+/home/ss/cppProjects/FirstTestMNM/build/Desktop-RelWithDebInfo/CMakeFiles/edit_cache.dir
+/home/ss/cppProjects/FirstTestMNM/build/Desktop-RelWithDebInfo/CMakeFiles/rebuild_cache.dir
+/home/ss/cppProjects/FirstTestMNM/build/Desktop-RelWithDebInfo/CMakeFiles/list_install_components.dir
+/home/ss/cppProjects/FirstTestMNM/build/Desktop-RelWithDebInfo/CMakeFiles/install.dir
+/home/ss/cppProjects/FirstTestMNM/build/Desktop-RelWithDebInfo/CMakeFiles/install/local.dir
+/home/ss/cppProjects/FirstTestMNM/build/Desktop-RelWithDebInfo/CMakeFiles/install/strip.dir
+/home/ss/cppProjects/FirstTestMNM/build/Desktop-RelWithDebInfo/CMakeFiles/FirstTestMNM_autogen_timestamp_deps.dir
+/home/ss/cppProjects/FirstTestMNM/build/Desktop-RelWithDebInfo/CMakeFiles/FirstTestMNM_autogen.dir

@@ -1,0 +1,9 @@
+/home/ss/cppProjects/FirstTestMNM/build/Desktop-MinSizeRel/CMakeFiles/FirstTestMNM.dir
+/home/ss/cppProjects/FirstTestMNM/build/Desktop-MinSizeRel/CMakeFiles/edit_cache.dir
+/home/ss/cppProjects/FirstTestMNM/build/Desktop-MinSizeRel/CMakeFiles/rebuild_cache.dir
+/home/ss/cppProjects/FirstTestMNM/build/Desktop-MinSizeRel/CMakeFiles/list_install_components.dir
+/home/ss/cppProjects/FirstTestMNM/build/Desktop-MinSizeRel/CMakeFiles/install.dir
+/home/ss/cppProjects/FirstTestMNM/build/Desktop-MinSizeRel/CMakeFiles/install/local.dir
+/home/ss/cppProjects/FirstTestMNM/build/Desktop-MinSizeRel/CMakeFiles/install/strip.dir
+/home/ss/cppProjects/FirstTestMNM/build/Desktop-MinSizeRel/CMakeFiles/FirstTestMNM_autogen_timestamp_deps.dir
+/home/ss/cppProjects/FirstTestMNM/build/Desktop-MinSizeRel/CMakeFiles/FirstTestMNM_autogen.dir
